@@ -30,4 +30,7 @@ input{
 h1{
   color:rebeccapurple;
   font-size: 60px;
+  background-color: blanchedalmond;
+  margin-left: 20px;
+  margin-right: 40px;
 }
